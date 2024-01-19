@@ -1,5 +1,5 @@
 
-# Wikipedia Page
+# 2048 game 
 
 This assignment is about recreating  2048 game design using bootstrap.
 

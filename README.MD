@@ -1,4 +1,4 @@
-# <span><img src="./wikipedia.png" alt=“2024” style="height: 1em; vertical-align: middle;"></span> 2048 game 
+# <span><img src="./game-2048.html" alt=“2024” style="height: 1em; vertical-align: middle;"></span> 2048 game 
 
 This assignment is about recreating  2048 game design using bootstrap.
 
